@@ -2,7 +2,7 @@
 You will be demoing an object oriented design of a zoo.
 
 ## Instructions
-_Note 11/16/20: We are doubling this as a debugging exercise. On solution.py, there are the errors in the class methods that will need to be resolved. Either reproduce these errors while demoing, or clear the comments and open solutions.py to start debugging._
+_Note 11/16/20: We are doubling this as a debugging exercise. On `solution.py`, there are the errors in the class methods that will need to be resolved. Either reproduce these errors while demoing, or clear the comments and open solutions.py to start debugging._
 
 You will be demoing an object oriented design of a zoo. Be sure to talk about why certain attributes or methods go on the class and why others go on the instance. Also, highlight the hierarchy between the `Zoo` class and `Animal` classes.
 
