@@ -6,7 +6,7 @@ class Zoo:
   ''' represents an entire zoo '''
 
   def __init__(self):
-    catalog: {}
+    self.catalog = {}
 
   def add_animal(self, animal):
     if self.catalog[animal.species]:
